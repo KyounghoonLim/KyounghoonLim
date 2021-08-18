@@ -3,7 +3,6 @@ user_input = []
 for test_case in range(T):
     user_input.append(int(input()))
 
-# def pascal_triangle(user_input: list, ans=[]):
 ans = []
 
 for case in user_input:
@@ -29,7 +28,3 @@ for i in range(len(ans)):
                 print(f'{ans[i][j][k]}')
             else:
                 print(f'{ans[i][j][k]}', end=' ')
-            
-
-
-

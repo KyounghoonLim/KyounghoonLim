@@ -4,13 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="998de8d5-3b45-45e3-afcb-97596b09916e" name="Default Changelist" comment="" />
+    <list default="true" id="998de8d5-3b45-45e3-afcb-97596b09916e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/1933.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/1938.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2025.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2027.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2029.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2043.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2046.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2047.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2050.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2056.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2058.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2063.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2068.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2070.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/D1_2072.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/algo_2071.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/algo_2072.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/.idea/D2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1859.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1926.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1984.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1986.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/1989.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/2001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/2005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/2007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/.idea/D3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1wWyNUP0mZOOxzGAKuMc5xJzqyg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +64,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homeworkshop/algorithm/210811" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Baekjoon" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
