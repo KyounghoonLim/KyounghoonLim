@@ -1,0 +1,84 @@
+{% extends 'board.html' %}
+{% load static %}
+
+{% block title %}열린게시판 목록{% endblock title %}
+
+{% block content %}
+  <div class='d-flex justify-content-center align-items-center position-relative' style="background-image: url({% static 'discussion.jpg' %}); background-position: center; background-size: cover; height: 26.5vh;">
+    <div class='position-absolute bg-black opacity-25 w-100' style='height:100%'></div>
+    <h2 class='text-light position-absolute' style='bottom:50%'>열린 게시판</h2>
+    <section class='d-flex justify-content-center mt-auto' style='width:100vw;height:26.5%; opacity:75%'>
+      <span class='border-end' style='background-color:#172836; width:8%'></span>
+      <a href="{% url 'board:index' %}" class='d-flex align-items-center justify-content-center text-decoration-none border-end position-relative pt-1' style='background-color:skyblue;width:21%;'><h6 class='text-light position-absolute'>열린게시판</h6></a>
+      <a href="" class='d-flex align-items-center justify-content-center text-decoration-none border-end position-relative pt-1' style='background-color:#172836;width:21%;'><h6 class='text-light position-absolute'>익명게시판</h6></a>
+      <a href="" class='d-flex align-items-center justify-content-center text-decoration-none border-end position-relative pt-1' style='background-color:#172836;width:21%;'><h6 class='text-light position-absolute'>멘토링 게시판</h6></a>
+      <a href="" class='d-flex align-items-center justify-content-center text-decoration-none border-end position-relative pt-1' style='background-color:#172836;width:21%;'><h6 class='text-light position-absolute'>우리반 보기</h6></a>
+      <span class='' style='background-color:#172836; width:8%'></span>
+    </section>
+  </div>
+  <section class='d-flex justify-content-center align-items-center p-5 bg-light mx-auto' style='height:15vh; width:84%; margin-top:4rem; margin-bottom: 3rem;'>
+      <img src="{% static 'messenger.png' %}" alt="talk" style='width: 50px; height: 50px; margin-right:25px'>
+      <p class='m-0' style='color:#999999; letter-spacing:-1px;'>'열린게시판'은 교육생들 간의 유용한 정보를 공유하고 서로 도움을 받을 수 있는 소통하는 공간입니다.
+        다양한 의견과 글을 자유롭게 게시하고 공유해주세요.</p>
+  </section>
+  <section  class='mx-auto d-flex justify-content-between align-items-center mb-3' style='width:84%'>
+    <article>
+      <a href="" class='text-dark text-decoration-none mx-2'>전체({{ articles|length }})</a>
+      <a href="" class='text-dark text-decoration-none mx-2'>자유게시판({{ free }})</a>
+      <a href="" class='text-dark text-decoration-none mx-2'>강의 다시보기({{ repeat }})</a>
+      <a href="" class='text-dark text-decoration-none mx-2'>SSAFYcial({{ articles|length }})</a>
+    </article>
+    <a href="{% url 'board:create' %}">
+      <button class='text-light fw-bold' style='background-color: #5392f5; border:0; padding: 6px 30px'>글쓰기</button>
+    </a>
+  </section>
+  <hr style='width: 84%; margin: auto'>
+  <section>
+    <hr style='width:84%; margin:45px auto 5px; border: 1px solid black'>
+    <ul class='list-unstyled' style='width:84%; margin:auto'>
+      {% for article in articles %}
+        <li class='d-flex justify-content-between align-items-center mx-auto container py-2 border-bottom'>
+          <div class='d-flex justify-content-center align-items-center col-1 me-5'>
+            <p class='text-primary m-0' style='letter-spacing:-1px; font-size:15px'>{{ article.get_header_display }}</p>
+          </div>
+          <div class='d-flex flex-column col-11'>
+            <a href="{% url 'board:detail' article.pk %}" class='text-decoration-none text-dark my-1 mx-3'>{{ article.title }}</a>
+            <div class='d-flex align-items-center'>
+              <div class='rounded-circle position-relative m-2' style='background-color:#62ccbe; width:40px; height:40px'>
+                {% if user.profile %}
+                    
+                  {% else %}
+                    <img src="{% static 'pencil.png' %}" alt="pencil" style='width:25px; height:25px; position: absolute; left:6px; top:6px'>
+                {% endif %}
+              </div>
+              <span class='d-flex justify-content-between' style='width:90%'>
+                <div>
+                  <p class='text-secondary ms-2 my-0 text-nowrap' style='font-size:15px'>{{ article.writer }}</p>
+                  <p class='text-secondary border-start ms-2 me-5 my-0 ps-3 text-nowrap' style='font-size:15px'>{{ article.updated_at }}</p>
+                </div>
+                <div class='d-flex'>
+                  <span class='mx-2 d-flex align-items-center'>
+                    <img src="{% static 'eye.png' %}" alt="view" style='width:20px; height:20px'>
+                    <p class='mx-1 my-0 text-secondary' style='font-size:12.5px; letter-spacing:-0.5px'>{{ article.cnt }}</p>
+                  </span>
+                  <span class='mx-2 d-flex align-items-center'>
+                    <img src="{% static 'like.png' %}" alt="view" style='width:20px; height:20px'>
+                    <p class='mx-1 my-0 text-secondary' style='font-size:12.5px; letter-spacing:-0.5px'>{{ article.like }}</p>
+                  </span>
+                  <span class='mx-2 d-flex align-items-center'>
+                    <img src="{% static 'chat.png' %}" alt="view" style='width:20px; height:20px'>
+                    <p class='mx-1 my-0 text-secondary' style='font-size:12.5px; letter-spacing:-0.5px'>{{ article.cnt }}</p>
+                  </span>
+                  <span class='mx-2 d-flex align-items-center'>
+                    <img src="{% static 'heart.png' %}" alt="view" style='width:20px; height:20px'>
+                    <p class='mx-1 my-0 text-secondary' style='font-size:12.5px; letter-spacing:-0.5px'>{{ article.cnt }}</p>
+                  </span>
+                </div>
+              </span>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endblock content %}

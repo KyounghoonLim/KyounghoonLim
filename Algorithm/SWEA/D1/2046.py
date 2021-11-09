@@ -1,4 +1,4 @@
-user_input = int(input())
+T = int(input())
 
-for i in range(user_input):
+for i in range(T):
     print('#', end='')

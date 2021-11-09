@@ -1,0 +1,29 @@
+{% load static %}
+
+<nav class='d-flex justify-content-between align-items-center ps-5 pe-1 ' style='height:12.5vh'>
+  <div>
+    <a href="{% url 'board:index' %}" class='ms-5'><img src="{% static 'ssafy.png' %}" alt="SSAFY" style='width:110px;height:110px;'></a>
+  </div>
+  <div class='d-flex'>
+    <ul class='list-unstyled list-inline m-0'>
+      <a href="" class='text-decoration-none list-inline-item text-dark mx-5'><li>마이캠퍼스</li></a>
+      <a href="" class='text-decoration-none list-inline-item text-dark mx-5'><li>강의실</li></a>
+      <a href="{% url 'board:index' %}" class='text-decoration-none list-inline-item text-dark mx-5'><li>커뮤니티</li></a>
+      <a href="" class='text-decoration-none list-inline-item text-dark mx-5'><li>HELP DESK</li></a>
+    </ul>
+  </div>
+  <div class='d-flex'>
+    <a href="" class='position-relative mx-3'>
+      <img src="{% static 'bell.png' %}" alt="bell" style='width:25px; height:25px;'>
+      <span class='rounded-circle bg-danger position-absolute border border-2 border-white' style='width: 20px; height: 20px; left:12px'><p style='color: #FFFFFF;'>0</p></span>
+    </a>
+    <div>
+      <div>{{ user.username }}님</div>
+    </div>
+  </div>
+  <div class='d-flex justify-content-center h-100 w-25'>
+    <a href="" class='text-end text-decoration-none text-dark p-3' style='background-color:#f0f0f0; width:28%'><h6 class='fw-bold mt-3 mb-0' style='letter-spacing:-1px'>JOB</h6><h6 class='fw-bold my-0' style='letter-spacing:-1px'>SSAFY</h6><hr style='border:1.2px solid black; margin-top:10px;'></a>
+    <a href="" class='text-start text-decoration-none text-light p-3' style='background-color:#589dd1; width:28%'><h6 class='fw-bold mt-3 mb-0' style='letter-spacing:-1px'>SSAFY</h6><h6 class='fw-bold my-0' style='letter-spacing:-1px'>GIT</h6><hr style='border:1.2px solid white; margin-top:10px;'></a>
+    <a href="" class='text-start text-decoration-none text-light p-3' style='background-color:#3dd951; width:28%'><h6 class='fw-bold mt-3 mb-0' style='letter-spacing:-1px'>Meeting!</h6><h6 class='fw-bold my-0' style='letter-spacing:-1px'>SSAFY</h6><hr style='border:1.2px solid white; margin-top:10px;'></a>
+  </div>
+</nav>
