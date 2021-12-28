@@ -1,7 +1,7 @@
 def find_exit(i, j):
     for t1 in range(N):
         for t2 in range(N):
-            if test_case[t1][t2] == 2:
+            if test_case[t1][t2] > 1:
                 person[-1].append((abs(t1-i)+abs(t2-j), t1, t2))
 
 

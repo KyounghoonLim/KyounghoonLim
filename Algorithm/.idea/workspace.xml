@@ -5,54 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998de8d5-3b45-45e3-afcb-97596b09916e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code_battle/MBTI로팀만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_battle/광이삼의암벽등반.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_battle/물고기와바닷새.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211111/14889_스타트와링크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211116/13038_교환학생.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211116/13041_게이름뱅이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211202/14888_연산자끼워넣기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211203/1865_동철이의일분배.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211203/2383_점심시간.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211206/2382_미생물격리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211206/5658_보물상자비밀번호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211207/10912_외로운문자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211207/13218_조별과제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211209/21608_상어초등학교.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211214/10200_구독자전쟁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211214/12741_두전구.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211221/11446_사탕가방.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211221/11545_틱택톰.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/211228/14499_주사위굴리기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../genres.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/1933.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/1938.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2027.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2029.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2043.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2046.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2047.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2050.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2056.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2058.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2063.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2068.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2070.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/D1_2072.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/algo_2071.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/algo_2072.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/.idea/D2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1859.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1926.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1979.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1984.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1986.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1989.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/2001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/2005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/2007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/.idea/D3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_test/second/비상구탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/A_test/second/비상구탈출.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1wWyNUP0mZOOxzGAKuMc5xJzqyg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,11 +66,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Baekjoon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="1979" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.14499_주사위굴리기">
+    <configuration name="10200_구독자전쟁" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +79,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/211214" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2/1979.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/211214/10200_구독자전쟁.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11446_사탕가방" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/211221" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/211221/11446_사탕가방.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11545_틱택톰" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/211221" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/211221/11545_틱택톰.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12741_두전구" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/211214" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/211214/12741_두전구.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14499_주사위굴리기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/211228" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/211228/14499_주사위굴리기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1979" />
+        <item itemvalue="Python.14499_주사위굴리기" />
+        <item itemvalue="Python.11446_사탕가방" />
+        <item itemvalue="Python.11545_틱택톰" />
+        <item itemvalue="Python.12741_두전구" />
+        <item itemvalue="Python.10200_구독자전쟁" />
       </list>
     </recent_temporary>
   </component>
@@ -110,5 +201,101 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="idx==3" language="Python" />
+          <url>file://$PROJECT_DIR$/algo/test.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/211202/14888_연산자끼워넣기.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/211203/1865_동철이의일분배.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="tc == 9" language="Python" />
+          <url>file://$PROJECT_DIR$/test/211203/2383_점심시간.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/211206/5658_보물상자비밀번호.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/211206/2382_미생물격리.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="tc==2" language="Python" />
+          <url>file://$PROJECT_DIR$/code_battle/광이삼의암벽등반.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_battle/물고기와바닷새.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/211209/21608_상어초등학교.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/211221/11545_틱택톰.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/211221/11446_사탕가방.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/211228/14499_주사위굴리기.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="dice" />
+        <watch expression="dice_flat" language="Python" />
+        <watch expression="test_case" />
+        <watch expression="(i, j)" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
