@@ -1,4 +1,3 @@
-import pprint
 import copy
 
 def do(temp):
@@ -86,7 +85,7 @@ def cam3(arr, n, d):
                 break
             arr[i][pos[1]] = do(arr[i][pos[1]])
     else:
-        for j in range(pos[1], 0, -1):
+        for j in range(pos[1], -1, -1):
             if arr[pos[0]][j] == 6:
                 break
             arr[pos[0]][j] = do(arr[pos[0]][j])
@@ -204,7 +203,7 @@ def watch(room, n=0):
 
     cctv = room[camera[n][0]][camera[n][1]]
     for d in range(4):
-        if ans == 0:
+        if ans == 0 or (d > 0 and cctv == 5):
             return
         arr = copy.deepcopy(room)
         if cctv == 1: watch(cam1(arr, n, d), n+1);
