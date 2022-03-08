@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998de8d5-3b45-45e3-afcb-97596b09916e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers_skill_test/level_1/p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers_skill_test/level_1/p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers_skill_test/level_2/p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers_skill_test/level_2/p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/220303/오픈채팅방_PG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/220308/[1차]추석트래픽_PG.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/220125/문자열압축_PR.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/220125/문자열압축_PG.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/220224/156683_감시_BJ.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/220224/156683_감시_BJ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +51,7 @@
       <recent name="$PROJECT_DIR$/test/220106_BJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p2">
+  <component name="RunManager" selected="Python.[1차]추석트래픽_PG">
     <configuration name="156683_감시_BJ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15685_드래곤커브_BJ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="[1차]추석트래픽_PG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/220127" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/220308" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/220127/15685_드래곤커브_BJ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/220308/[1차]추석트래픽_PG.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.[1차]추석트래픽_PG" />
         <item itemvalue="Python.p2" />
         <item itemvalue="Python.p1" />
         <item itemvalue="Python.오픈채팅방_PG" />
         <item itemvalue="Python.156683_감시_BJ" />
-        <item itemvalue="Python.15685_드래곤커브_BJ" />
       </list>
     </recent_temporary>
   </component>
@@ -313,6 +307,11 @@
           <line>33</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/220308/[1차]추석트래픽_PG.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -322,5 +321,11 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="math.isclose(request_time, task[-1] + float(0.999))" language="Python" />
+        <watch expression="request_time, task[-1] + float(0.999)" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
