@@ -16,7 +16,9 @@
 <p>📱 010-2667-0132</p>
 <p>✉ mogies@naver.com</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyounghoonLim&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyounghoonLim&bg_color=62,8EC5FC,E0C3FC&title_color=fff&text_color=fff
+)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **KyounghoonLim/KyounghoonLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
