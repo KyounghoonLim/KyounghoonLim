@@ -15,6 +15,8 @@
 <h3>Contect</h3>
 <p>📱 010-2667-0132</p>
 <p>✉ mogies@naver.com</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyounghoonLim&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KyounghoonLim/KyounghoonLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
