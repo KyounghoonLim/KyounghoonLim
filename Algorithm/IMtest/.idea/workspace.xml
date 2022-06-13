@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d746e746-a86d-42a5-bbfa-dedc04d7d2c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/1244.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/13300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/14696.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2309.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2477.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2527.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2559.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2563.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2564.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2567.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2578.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2628.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2635.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2669.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/2798.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/8320.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/IM/기지국.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math1/math_1011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math1/math_10250.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math1/math_10757.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math1/math_1193.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math1/math_1712.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math1/math_2292.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math1/math_2775.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math1/math_2839.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math1/math_2869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math2/math2_11653.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math2/math2_1929.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math2/math2_1978.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math2/math2_2681.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math2/math2_4948.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/basic_math2/math2_9020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/function/func_1065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/function/func_15596.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/function/func_4673.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/list_1/list_10818.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/list_1/list_1546.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/list_1/list_2562.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/list_1/list_2577.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/list_1/list_3052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/list_1/list_4344.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/list_1/list_8958.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_10809.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_1152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_1157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_11654.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_11720.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_1316.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_2675.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_2908.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_2941.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/string/string_5622.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon/while/while_new_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D1/1545.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D1/1936.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D1/2019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1204.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1284.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1288.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1928.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1940.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1945.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1946.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1948.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1954.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1959.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1961.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1966.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1970.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1974.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1976.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D2/1983.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/11315.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/12051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/12221.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/12368.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/1289.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/1860.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/2805.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/3499.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/6190.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/7087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D3/7272.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWEA/D4/4613.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kakao/prom_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kakao/prom_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kakao/prom_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/.idea/Baekjoon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/.idea/Baekjoon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/if/1_1330.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/if/1_1330.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/if/2_9498.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/if/2_9498.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/if/3_2753.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/if/3_2753.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/if/4_14681.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/if/4_14681.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon/if/5_2884.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Baekjoon/if/5_2884.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/1933.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/1933.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/1938.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/1938.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2025.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2027.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2029.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2043.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2046.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2047.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2050.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2056.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2058.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2063.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2063.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2068.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2068.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/2070.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/algo_2071.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/2071.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D1/algo_2072.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D1/algo_2072.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/.idea/D2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/.idea/D2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/1859.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/1859.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/1926.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/1926.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/1979.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/1979.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/1984.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/1984.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/1986.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/1986.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/1989.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/1989.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/2001.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/2001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/2005.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/2005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D2/2007.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D2/2007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D3/.idea/D3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D3/.idea/D3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/D3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/D3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_func/가위바위보.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_func/가위바위보.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_func/소수 판별.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_func/소수 판별.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_func/피보나치 리스트.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_func/피보나치 리스트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/_virtualenv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/_virtualenv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pip-21.1.2.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pip-21.1.2.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools-57.0.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools-57.0.0.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Lib/site-packages/wheel-0.36.2.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/wheel-0.36.2.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Scripts/deactivate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Scripts/deactivate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/Scripts/pydoc.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/Scripts/pydoc.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1xCmiXbexESlCoGzBhYagNvKCOS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="IMtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IMtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d746e746-a86d-42a5-bbfa-dedc04d7d2c9" name="Changes" comment="" />
+      <created>1629867571254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629867571254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
