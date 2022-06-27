@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998de8d5-3b45-45e3-afcb-97596b09916e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/14503_로봇청소기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest/Midas/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest/Midas/2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study/웹 애니메이션 최적화/assets/debounce:throttle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study/웹 애니메이션 최적화/웹 애니메이션 최적화.md" beforeDir="false" afterPath="$PROJECT_DIR$/../study/웹 애니메이션 최적화/웹 애니메이션 최적화.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/14503_로봇청소기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/14503_로봇청소기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,9 +331,15 @@
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="n == 6 and pos == [3, 3, 0]" language="Python" />
           <url>file://$PROJECT_DIR$/Baekjoon/14503_로봇청소기.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="73" />
+          <line>61</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baekjoon/14503_로봇청소기.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -348,5 +350,11 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="test_case" language="Python" />
+        <watch expression="ans" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
