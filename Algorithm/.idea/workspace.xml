@@ -342,10 +342,10 @@
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <condition expression="i == 4" language="Python" />
+          <condition expression="i == 1" language="Python" />
           <url>file://$PROJECT_DIR$/Baekjoon/14890_경사로.py</url>
-          <line>84</line>
-          <option name="timeStamp" value="85" />
+          <line>53</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -360,7 +360,8 @@
       <configuration name="PythonConfigurationType">
         <watch expression="test_case" language="Python" />
         <watch expression="ans" language="Python" />
-        <watch expression="abs(test_case[i][j] - test_case[i][j + k])" language="Python" />
+        <watch expression="visited" language="Python" />
+        <watch expression="visited" language="Python" />
       </configuration>
     </watches-manager>
   </component>
