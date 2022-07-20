@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998de8d5-3b45-45e3-afcb-97596b09916e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/15686_치킨배달.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/15686_치킨배달.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/15686_치킨배달.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,6 +361,11 @@
           <url>file://$PROJECT_DIR$/CodingTest/GOODGANGLABS/3.py</url>
           <line>30</line>
           <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baekjoon/15686_치킨배달.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
