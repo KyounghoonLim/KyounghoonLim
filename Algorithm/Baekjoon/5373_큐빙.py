@@ -1,24 +1,41 @@
 import copy
 
 
+def cube_rotate_plane(cube, order, d):
+    plane = cube[order]
+    result = [[0] * 3 for _ in range(3)]
+    if d == '+':
+        for i in range(3):
+            for j in range(3):
+                result[j][2 - i] = plane[i][j]
+    else:
+        for i in range(3):
+            for j in range(3):
+                result[2 - j][i] = plane[i][j]
+    cube[order] = result
+
+
 def cube_rotate(cube, order, d):
     ref = copy.deepcopy(cube)
-    fixed_idx, rule = rules[order]
+    idx, rule = rules[order]
     if d == '+':
-        rule.reverse()
+        rule = list(reversed(rule))
 
     for i in range(3):
         for j in range(4):
             if order in ['U', 'D']:
-                cube[rule[j]][fixed_idx][i] = ref[rule[(j + 1) % 4]][fixed_idx][i]
+                cube[rule[j]][idx][i] = ref[rule[(j + 1) % 4]][idx][i]
             elif order in ['L', 'R']:
-                w = weight[rule[j]]
-                cube[rule[j]][abs(i - w)][abs(fixed_idx - w)] = ref[rule[(j + 1) % 4]][abs(i - w)][abs(fixed_idx - w)]
+                w_my, w_target = weight[rule[j]], weight[rule[(j + 1) % 4]]
+                cube[rule[j]][abs(i - w_my)][abs(idx - w_my)] = ref[rule[(j + 1) % 4]][abs(i - w_target)][abs(idx - w_target)]
             else:
+                w_my, w_target = weight[rule[j]], weight[rule[(j + 1) % 4]]
                 if rule[j] in ['L', 'R']:
-                    cube[rule[j]][i][abs(fixed_idx - 2)] = ref[rule[(j + 1) % 4]][fixed_idx][i]
+                    cube[rule[j]][i][abs(idx - w_my)] = ref[rule[(j + 1) % 4]][abs(idx - w_target)][i]
                 else:
-                    cube[rule[j]][fixed_idx][i] = ref[rule[(j + 1) % 4]][i][abs(fixed_idx - 2)]
+                    cube[rule[j]][abs(idx - w_my)][i] = ref[rule[(j + 1) % 4]][i][abs(idx - w_target)]
+
+    cube_rotate_plane(cube, order, d)
 
     return cube
 
@@ -43,7 +60,9 @@ weight = {
     'U': 0,
     'D': 2,
     'F': 0,
-    'B': 0
+    'B': 2,
+    'L': 0,
+    'R': 2
 }
 
 for tc in range(int(input())):
