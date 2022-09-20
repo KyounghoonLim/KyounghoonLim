@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/CSS-⭐  ⭐-1572B6?logo=css">
   <img src="https://img.shields.io/badge/SCSS-⭐  ⭐-CC6699?logo=sass">
   <img src="https://img.shields.io/badge/Vue.js-⭐  ⭐-4FC08D?logo=vue.js">
-  <img src="https://img.shields.io/badge/React-⭐  -61DAFB?logo=react">
+  <img src="https://img.shields.io/badge/React-⭐  ⭐  -61DAFB?logo=react">
   <img src="https://img.shields.io/badge/Django-⭐  -092E20?logo=django">
 </div>
 <h3>Contect</h3>
