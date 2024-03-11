@@ -1,7 +1,7 @@
 <h1>말랑한 개발자를 꿈꾸는 사람 😎</h1>
 <i>Front-end Developer</i><br>
 <i>삼성 청년 소프트웨어 아카데미 6기 부울경 캠퍼스</i>
-<h3>Stacks</h3>
+<h3>Skills</h3>
 <div>
   <img src="https://img.shields.io/badge/Python-⭐  ⭐-3776AB?logo=python">
   <img src="https://img.shields.io/badge/Javascript-⭐  ⭐-F7DF1E?logo=javascript">
@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/SCSS-⭐  ⭐-CC6699?logo=sass">
   <img src="https://img.shields.io/badge/Vue.js-⭐  ⭐-4FC08D?logo=vue.js">
   <img src="https://img.shields.io/badge/React-⭐  ⭐  -61DAFB?logo=react">
-  <img src="https://img.shields.io/badge/Django-⭐  -092E20?logo=django">
 </div>
 <h3>Contect</h3>
 <p>📱 010-2667-0132</p>
